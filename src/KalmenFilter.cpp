@@ -1,4 +1,3 @@
-```ruby
 /** 
  * Write a function 'filter()' that implements a multi-
  *   dimensional Kalman Filter for the example given
@@ -95,5 +94,3 @@ void filter(VectorXd &x, MatrixXd &P) {
         cout << "P=" << endl <<  P << endl;
     }
 }
-```
-
